@@ -1,0 +1,5 @@
+C:\Users\Sai\Desktop\Asp.Net\FlippCoin\FlippCoin\obj\Debug\net6.0\FlippCoin.csproj.AssemblyReference.cache
+C:\Users\Sai\Desktop\Asp.Net\FlippCoin\FlippCoin\obj\Debug\net6.0\FlippCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sai\Desktop\Asp.Net\FlippCoin\FlippCoin\obj\Debug\net6.0\FlippCoin.AssemblyInfoInputs.cache
+C:\Users\Sai\Desktop\Asp.Net\FlippCoin\FlippCoin\obj\Debug\net6.0\FlippCoin.AssemblyInfo.cs
+C:\Users\Sai\Desktop\Asp.Net\FlippCoin\FlippCoin\obj\Debug\net6.0\FlippCoin.csproj.CoreCompileInputs.cache
